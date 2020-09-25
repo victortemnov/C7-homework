@@ -1,3 +1,3 @@
 # unit-test for two features:
 ## reverseString, oddOrEven.
-> q
+< <this.project> npm i --save-dev
