@@ -1,2 +1,3 @@
-# unit-test
-## after downloading run this command in CLI: ```npm i --save-dev```
+# unit-test for two features:
+## reverseString, oddOrEven.
+> q
