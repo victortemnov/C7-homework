@@ -1,5 +1,5 @@
-# unit-test for two features:
+# Unit-test for two features:
 ## reverseString, oddOrEven.
-## start:
+## Start:
 ### in Command Line Interface(CLI)
 ### path:folder npm i  --save-dev
