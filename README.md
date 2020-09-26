@@ -1,4 +1,4 @@
-# Unit-test for two features:
+# Unit-tests for two features:
 ## reverseString, oddOrEven.
 ## Start:
 ### in Command Line Interface(CLI)
