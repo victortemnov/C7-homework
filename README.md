@@ -4,5 +4,5 @@
 >
 > ```
 > npm install --save-dev jest
-> npm test or npm run test
+> npm test (or npm run test)
 > ```
